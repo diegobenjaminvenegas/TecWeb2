@@ -1,0 +1,10 @@
+
+
+Software para manego de contraseñas
+
+Genera Token Clasico
+-Entrar a settings-> developers Settings
+
+git config --global user.email "diego77601862@gmail.com"
+git config --global user.name "diegobenjaminvenegas "
+
